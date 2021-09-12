@@ -29,8 +29,9 @@ const Logout = () => {
     console.log(ok)
     return (
       <div>
-        <h4 className="ok">{ok}</h4>
         <form className="d-flex">
+        <h2 className="ok mx-4">{ok}  </h2>
+        <h3> </h3>
           <Link className=" btn btn-primary mx-1" to="/check" role="button">
             Logout
           </Link>

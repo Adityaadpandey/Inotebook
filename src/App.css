@@ -69,5 +69,9 @@
 }
 .ok{
   color: white;
+  font-family: Brush Script MT;
   text-transform: capitalize;
 }
+/* .navbar-brand{
+  font-size:  38px;
+} */
